@@ -2,7 +2,7 @@
 layout: blog-post
 title: The proper way to include an image to the README of an VS Code extension
 ---
-
+https://github.com/cschot/cschot.github.io/blob/4a883971d05e4fda6e07b832c5ff89341c559e43/_config.yml#L1
 So I've been writing the [Codespaces Usage Monitor](https://marketplace.visualstudio.com/items?itemName=cschot.codespaces-usage-monitor)
 extension for VS Code in VS Code in the past couple of days.
 I was finished writing the code an came to the part of writing the README...
